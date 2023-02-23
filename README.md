@@ -1,16 +1,14 @@
-### Hi there 👋
+Estudante de engenharia de software movida pela fascinação por inovação e desafios que vão além dos códigos
 
-<!--
-**mirellefranco/mirellefranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou Mirelle, uma estudante de engenharia de software apaixonada por tecnologia e movida pela curiosidade em aprender sempre mais.
 
-Here are some ideas to get you started:
+Desde a infância, fui fascinada pelo mundo da tecnologia e pelo seu potencial em transformar a vida das pessoas. Na adolescência, descobri a programação e logo percebi que era uma área que me encantava. Acredito que a inovação é a chave para criar soluções transformadoras e estou sempre em busca de maneiras de aplicar meus conhecimentos para criar soluções disruptivas que possam fazer a diferença.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu objetivo é me tornar uma profissional de destaque, capaz de aplicar minhas habilidades e conhecimentos para criar soluções inovadoras e impactantes que possam melhorar a vida das pessoas.
+
+Acredito que a inovação é a chave para criar soluções transformadoras, e estou sempre em busca de maneiras de aplicar meus conhecimentos para criar soluções disruptivas que possam fazer a diferença.
+
+Sou uma pessoa dedicada, focada e comprometida com o sucesso dos meus projetos. Estou sempre em busca de novos desafios e oportunidades para crescer e contribuir.
+
+Se você procura uma engenheira de software criativa, comprometida e pronta para enfrentar novos desafios, não hesite em entrar em contato comigo!
+
