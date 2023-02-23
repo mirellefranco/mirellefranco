@@ -1,4 +1,4 @@
-Estudante de engenharia de software movida pela fascinação por inovação e desafios que vão além dos códigos
+### Estudante de engenharia de software movida pela fascinação por inovação e desafios que vão além dos códigos
 
 Olá! Sou Mirelle, uma estudante de engenharia de software apaixonada por tecnologia e movida pela curiosidade em aprender sempre mais.
 
