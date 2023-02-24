@@ -7,11 +7,12 @@ Estudante de engenharia de software movida pela fascinação por inovação e de
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mirelleffranco/)
 
 <div style="display: inline_block"><br/>
-<img align="right" alt="react" src="https://cdn.discordapp.com/attachments/1066250756925161482/1078480289984151572/ih__anime_of_a_cute_girl_dark_brown_hair_dark_brown_eyes_ha_964eb61e-034e-48d8-b903-6b751e566020.png" width="220px" />
+<img align="right" alt="react" src="https://cdn.discordapp.com/attachments/1066250756925161482/1078491635786186802/rounded-in-photoretrica.png" width="220px" />
 </div>
 
 ![Mirelle Franco GitHub stats](https://github-readme-stats.vercel.app/api?username=mirellefranco&show_icons=true&theme=tokyonight)
 
+##
 ### Tech Life: As Ferramentas que Uso Diariamente
 
 <div style="display: inline_block"><br/>
