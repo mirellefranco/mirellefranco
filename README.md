@@ -6,6 +6,9 @@ Estudante de engenharia de software movida pela fascinação por inovação e de
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/mirellefranco04@gmail.com/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mirelleffranco/)
 
+<div style="display: inline_block"><br/>
+<img align="right" alt="react" src="https://cdn.discordapp.com/attachments/1066250756925161482/1078480289984151572/ih__anime_of_a_cute_girl_dark_brown_hair_dark_brown_eyes_ha_964eb61e-034e-48d8-b903-6b751e566020.png" width="220px" />
+</div>
 
 ![Mirelle Franco GitHub stats](https://github-readme-stats.vercel.app/api?username=mirellefranco&show_icons=true&theme=tokyonight)
 
@@ -19,7 +22,9 @@ Estudante de engenharia de software movida pela fascinação por inovação e de
       <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
             <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
                         <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
 </div>
+
 
 ### Sobre mim
 
