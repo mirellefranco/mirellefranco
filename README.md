@@ -7,7 +7,7 @@ Estudante de engenharia de software movida por inovação e desafios que vão al
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mirelleffranco/)
 
 <div style="display: inline_block"><br/>
-<img align="right" alt="react" src="cdn.discordapp.com/attachments/1111360609934647409/1161497106440273930/baixados.jfif?ex=65388379&is=65260e79&hm=c9866b20b0abe7cabec6427621a8998565dbce4247ea69a284b49c63b99f4667&" width="220px" />
+<img align="right" alt="react" src="https://cdn.discordapp.com/attachments/1066250756925161482/1078491635786186802/rounded-in-photoretrica.png" width="220px" />
 </div>
 
 ![Mirelle Franco GitHub stats](https://github-readme-stats.vercel.app/api?username=mirellefranco&show_icons=true&theme=tokyonight)
